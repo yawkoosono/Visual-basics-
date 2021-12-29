@@ -2,7 +2,7 @@
 YAW KOOSONO
 Course: CIS232-40 .NET Programming II
 
-Program Overview and specifications
+(Program Overview and specifications)(https://github.com/yawkoosono/Visual-basics-)
 
 This software display form to display products data and list of incidents for that selected 
 product. User can click at ‘Customer Info’ button to view customer detail of the selected 
