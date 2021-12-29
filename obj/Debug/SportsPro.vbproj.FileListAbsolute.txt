@@ -1,0 +1,78 @@
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\obj\Debug\SportsPro.Resources.resources
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\obj\Debug\SportsPro.vbproj.GenerateResource.cache
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\obj\Debug\SportsPro.vbproj.CoreCompileInputs.cache
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\bin\Debug\TechSupport.mdb
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\bin\Debug\SportsPro.exe.config
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\bin\Debug\SportsPro.exe
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\bin\Debug\SportsPro.pdb
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\bin\Debug\SportsPro.xml
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\obj\Debug\SportsPro.exe
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\obj\Debug\SportsPro.xml
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\obj\Debug\SportsPro.pdb
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\obj\Debug\SportsPro.vbprojAssemblyReference.cache
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\bin\Debug\TechSupportData.dll
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\bin\Debug\TechSupportData.pdb
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\bin\Debug\TechSupportData.xml
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\obj\Debug\SportsPro.vbproj.CopyComplete
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\obj\Debug\SportsPro.frmCreateIncident_YK.resources
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\obj\Debug\SportsPro.frmCustomer_YK.resources
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\obj\Debug\SportsPro.frmCustomerMaintenance_YK.resources
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\obj\Debug\SportsPro.frmMain_YK.resources
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\obj\Debug\SportsPro.frmOpenIncidents_YK.resources
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\obj\Debug\SportsPro.frmProductIncidents_YK.resources
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\obj\Debug\SportsPro.frmProductMaintenance_YK.resources
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\obj\Debug\SportsPro.frmUpdateIncident_YK.resources
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\obj\Debug\SportsPro.frmTechnicianIncidents_YK.resources
+C:\work\Personal\Hired\HuynhT_veronica002_VB\SportsPro\SportsPro\obj\Debug\SportsPro.frmMaintainRegistrations_YK.resources
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\obj\Debug\SportsPro.vbprojAssemblyReference.cache
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\obj\Debug\SportsPro.frmCreateIncident_YK.resources
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\obj\Debug\SportsPro.frmCustomer_YK.resources
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\obj\Debug\SportsPro.frmCustomerMaintenance_YK.resources
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\obj\Debug\SportsPro.frmMaintainRegistrations_YK.resources
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\obj\Debug\SportsPro.frmMain_YK.resources
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\obj\Debug\SportsPro.frmTechnicianIncidents_YK.resources
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\obj\Debug\SportsPro.Resources.resources
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\obj\Debug\SportsPro.frmOpenIncidents_YK.resources
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\obj\Debug\SportsPro.frmProductIncidents_YK.resources
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\obj\Debug\SportsPro.frmProductMaintenance_YK.resources
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\obj\Debug\SportsPro.frmUpdateIncident_YK.resources
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\obj\Debug\SportsPro.vbproj.GenerateResource.cache
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\obj\Debug\SportsPro.vbproj.CoreCompileInputs.cache
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\obj\Debug\SportsPro.exe
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\obj\Debug\SportsPro.xml
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\obj\Debug\SportsPro.pdb
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\bin\Debug\TechSupport.mdb
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\bin\Debug\SportsPro.exe.config
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\bin\Debug\SportsPro.exe
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\bin\Debug\SportsPro.pdb
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\bin\Debug\SportsPro.xml
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\bin\Debug\TechSupportData.dll
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\bin\Debug\TechSupportData.pdb
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\bin\Debug\TechSupportData.xml
+C:\Users\Yaw Koosono\Downloads\SportsPro3-E_YK\SportsPro\SportsPro\obj\Debug\SportsPro.vbproj.CopyComplete
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\bin\Debug\TechSupport.mdb
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\bin\Debug\SportsPro.exe.config
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\bin\Debug\SportsPro.exe
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\bin\Debug\SportsPro.pdb
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\bin\Debug\SportsPro.xml
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\bin\Debug\TechSupportData.dll
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\bin\Debug\TechSupportData.pdb
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\bin\Debug\TechSupportData.xml
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\obj\Debug\SportsPro.vbprojAssemblyReference.cache
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\obj\Debug\SportsPro.frmCreateIncident_YK.resources
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\obj\Debug\SportsPro.frmCustomer_YK.resources
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\obj\Debug\SportsPro.frmCustomerMaintenance_YK.resources
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\obj\Debug\SportsPro.frmMaintainRegistrations_YK.resources
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\obj\Debug\SportsPro.frmMain_YK.resources
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\obj\Debug\SportsPro.frmTechnicianIncidents_YK.resources
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\obj\Debug\SportsPro.Resources.resources
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\obj\Debug\SportsPro.frmOpenIncidents_YK.resources
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\obj\Debug\SportsPro.frmProductIncidents_YK.resources
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\obj\Debug\SportsPro.frmProductMaintenance_YK.resources
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\obj\Debug\SportsPro.frmUpdateIncident_YK.resources
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\obj\Debug\SportsPro.vbproj.GenerateResource.cache
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\obj\Debug\SportsPro.vbproj.CoreCompileInputs.cache
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\obj\Debug\SportsPro.vbproj.CopyComplete
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\obj\Debug\SportsPro.exe
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\obj\Debug\SportsPro.xml
+C:\Users\Yaw Koosono\Downloads\Sports_pro 3E\SportsPro\SportsPro\obj\Debug\SportsPro.pdb
