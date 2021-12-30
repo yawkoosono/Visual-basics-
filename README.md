@@ -5,7 +5,7 @@ Course: CIS232-40 .NET Programming II
 (Program Overview and specifications)(https://github.com/yawkoosono/Visual-basics-)
 
 ![](/images/SportsPro%20Main%20page%20.png)
-
+![](/images/Incidence%20.png)
 This software display form to display products data and list of incidents for that selected 
 product. User can click at ‘Customer Info’ button to view customer detail of the selected 
 incident. Both forms only for view purpose.
