@@ -4,7 +4,7 @@ Course: CIS232-40 .NET Programming II
 
 (Program Overview and specifications)(https://github.com/yawkoosono/Visual-basics-)
 
-![](https://github.com/yawkoosono/Visual-basics-/blob/main/images/SportsPro%20Main%20page%20.png)
+![](/images/SportsPro%20Main%20page%20.png)
 
 This software display form to display products data and list of incidents for that selected 
 product. User can click at ‘Customer Info’ button to view customer detail of the selected 
@@ -15,6 +15,6 @@ User need to store database file (TechSupport.mdb) into C:\Bob location of same 
 software has installed.
 
 Hardware: Computer/Laptop, Mouse, Keyboard
-![](https://github.com/yawkoosono/Visual-basics-/blob/main/images/Incidence%20.png)
+![](/images/Incidence%20.png)
 
 
