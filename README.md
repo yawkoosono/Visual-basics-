@@ -15,6 +15,6 @@ User need to store database file (TechSupport.mdb) into C:\Bob location of same 
 software has installed.
 
 Hardware: Computer/Laptop, Mouse, Keyboard
-![]https://github.com/yawkoosono/Visual-basics-/blob/main/images/Incidence%20.png
+![](https://github.com/yawkoosono/Visual-basics-/blob/main/images/Incidence%20.png)
 
 
